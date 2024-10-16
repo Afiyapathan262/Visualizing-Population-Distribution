@@ -20,6 +20,7 @@ Bar Chart for Gender Distribution:A bar chart is plotted for the 'Gender' column
 Plot Customization:Titles, axis labels, colors, and layouts are customized for clear visualization using Matplotlib
 
 Learning Outcomes
+
 Understanding how to inspect and clean data (checking for missing and duplicate values). Visualizing a numerical column using a histogram to observe its distribution. Using Python libraries like Pandas, seaborn, and Matplotlib for data analysis and visualization. Learning to handle in-memory plotting and figure display using io for seamless image handling.
 
 
